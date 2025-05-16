@@ -1,0 +1,49 @@
+# Call Center Pipeline Configuration
+
+# Paths (relative to project root)
+paths:
+  audio_input: "data/raw/audio_mp3"
+  audio_output: "data/processed/audio_wav"
+  transcripts: "data/processed/transcripts"
+  models: "models"
+  metadata: "data/raw/calls.csv"
+
+# Audio processing parameters
+audio:
+  sample_rate: 16000  # 16 kHz for ASR compatibility
+  channels: 1         # mono
+  bit_depth: 16       # 16-bit PCM
+
+# Model parameters
+models:
+  diarization:
+    name: "pyannote/speaker-diarization-3.0"   # or local path from models dir
+    threshold: 0.7                             # detection threshold
+  
+  asr:
+    name: "openai/whisper-large-v3"            # or "tiny", "base", "small", "medium"
+    language: "en"                             # or null for auto-detection
+    beam_size: 5                               # beam search width
+    
+  nlp:
+    sentiment_model: "distilbert-base-uncased-finetuned-sst-2-english"
+    entity_recognition: "presidio"             # for PII detection/redaction
+
+# Database settings
+database:
+  type: "sqlite"                               # or "postgresql", etc.
+  path: "data/call_center.db"                  # for file-based DBs
+  # connection_string: ""                      # for server DBs
+  
+# Vector storage
+vector_db:
+  engine: "faiss"                              # or "chroma", etc.
+  dimensions: 768                              # embedding dimension
+  metric: "cosine"                             # similarity metric
+  index_path: "data/vector_index"
+
+# Dashboard settings
+dashboard:
+  port: 8501
+  theme: "light"                               # or "dark"
+  title: "Call Center Analytics" 

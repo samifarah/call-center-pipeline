@@ -1,0 +1,24 @@
+name: cc_pipeline
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10
+  - ffmpeg
+  - pydub
+  - pandas
+  - numpy
+  - scikit-learn
+  - sqlalchemy
+  - jupyter
+  - pytorch=2.3.*
+  - pytorch-cuda=12.1
+  - torchaudio
+  - pip
+  - pip:
+      - openai-whisper
+      - "pyannote.audio>=3,<4"
+      - presidiopy
+      - faiss-gpu==1.8.0.post1
+      - streamlit 
