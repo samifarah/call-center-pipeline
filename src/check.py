@@ -1,7 +1,6 @@
 # smoke_test_pipeline.py
 import ffmpeg           # from FFmpeg‑python wrapper
 from pydub import AudioSegment
-import whisper
 from pyannote.audio import Pipeline
 import faiss
 import presidiopy

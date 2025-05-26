@@ -1,7 +1,7 @@
 """
 Call Center Pipeline - Module Initialization
 
-This module ensures the required directory structure exists.
+This module ensures the required directory structure exists and initializes the package.
 """
 
 import os
@@ -28,7 +28,8 @@ def ensure_directories():
         root_dir / "data" / "processed" / "audio_wav",
         root_dir / "data" / "processed" / "transcripts",
         root_dir / "models",
-        root_dir / "notebooks"
+        root_dir / "notebooks",
+        root_dir / "logs"  # Add logs directory
     ]
     
     # Create directories
@@ -38,5 +39,5 @@ def ensure_directories():
     
     logger.info("Directory structure verified")
 
-# Run directory check on import
+# Create directories when package is imported
 ensure_directories() 
