@@ -1,0 +1,12 @@
+3.340	3.530	speaker_0
+4.220	5.530	speaker_0
+6.300	12.090	speaker_1
+14.060	16.090	speaker_0
+16.700	17.530	speaker_1
+44.700	44.970	speaker_0
+45.420	51.795	speaker_0
+51.545	56.045	speaker_1
+54.545	58.545	speaker_0
+58.045	59.450	speaker_1
+59.980	61.105	speaker_1
+60.855	62.170	speaker_0

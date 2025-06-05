@@ -1,0 +1,22 @@
+{
+  "speakers": [
+    "speaker_0"
+  ],
+  "segments": [
+    {
+      "start": 6.54,
+      "end": 7.05,
+      "label": "speaker_0"
+    },
+    {
+      "start": 52.22,
+      "end": 52.81,
+      "label": "speaker_0"
+    },
+    {
+      "start": 62.54,
+      "end": 62.97,
+      "label": "speaker_0"
+    }
+  ]
+}

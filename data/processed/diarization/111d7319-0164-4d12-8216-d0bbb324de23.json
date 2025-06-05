@@ -1,0 +1,118 @@
+{
+  "speakers": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 7.61,
+      "label": "speaker_0"
+    },
+    {
+      "start": 8.46,
+      "end": 12.41,
+      "label": "speaker_1"
+    },
+    {
+      "start": 9.085,
+      "end": 9.335,
+      "label": "speaker_0"
+    },
+    {
+      "start": 13.74,
+      "end": 15.45,
+      "label": "speaker_0"
+    },
+    {
+      "start": 17.74,
+      "end": 20.889999999999997,
+      "label": "speaker_0"
+    },
+    {
+      "start": 22.78,
+      "end": 24.330000000000002,
+      "label": "speaker_1"
+    },
+    {
+      "start": 26.54,
+      "end": 28.169999999999998,
+      "label": "speaker_0"
+    },
+    {
+      "start": 31.42,
+      "end": 31.69,
+      "label": "speaker_0"
+    },
+    {
+      "start": 56.78,
+      "end": 57.93,
+      "label": "speaker_0"
+    },
+    {
+      "start": 58.3,
+      "end": 62.01,
+      "label": "speaker_0"
+    },
+    {
+      "start": 62.86,
+      "end": 63.61,
+      "label": "speaker_1"
+    },
+    {
+      "start": 64.7,
+      "end": 66.01,
+      "label": "speaker_0"
+    },
+    {
+      "start": 77.42,
+      "end": 82.97,
+      "label": "speaker_0"
+    },
+    {
+      "start": 84.62,
+      "end": 87.37,
+      "label": "speaker_1"
+    },
+    {
+      "start": 89.74,
+      "end": 93.36999999999999,
+      "label": "speaker_1"
+    },
+    {
+      "start": 94.46,
+      "end": 95.85,
+      "label": "speaker_1"
+    },
+    {
+      "start": 96.46,
+      "end": 98.64999999999999,
+      "label": "speaker_0"
+    },
+    {
+      "start": 100.3,
+      "end": 101.05,
+      "label": "speaker_1"
+    },
+    {
+      "start": 101.82,
+      "end": 105.21,
+      "label": "speaker_0"
+    },
+    {
+      "start": 105.98,
+      "end": 106.65,
+      "label": "speaker_1"
+    },
+    {
+      "start": 107.02,
+      "end": 108.72999999999999,
+      "label": "speaker_0"
+    },
+    {
+      "start": 109.5,
+      "end": 110.33,
+      "label": "speaker_1"
+    }
+  ]
+}

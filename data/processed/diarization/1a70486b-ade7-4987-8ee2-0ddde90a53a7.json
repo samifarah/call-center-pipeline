@@ -1,0 +1,37 @@
+{
+  "speakers": [
+    "speaker_0"
+  ],
+  "segments": [
+    {
+      "start": 8.86,
+      "end": 9.77,
+      "label": "speaker_0"
+    },
+    {
+      "start": 10.06,
+      "end": 10.41,
+      "label": "speaker_0"
+    },
+    {
+      "start": 43.1,
+      "end": 43.370000000000005,
+      "label": "speaker_0"
+    },
+    {
+      "start": 56.14,
+      "end": 56.33,
+      "label": "speaker_0"
+    },
+    {
+      "start": 60.38,
+      "end": 61.050000000000004,
+      "label": "speaker_0"
+    },
+    {
+      "start": 64.38,
+      "end": 64.64999999999999,
+      "label": "speaker_0"
+    }
+  ]
+}

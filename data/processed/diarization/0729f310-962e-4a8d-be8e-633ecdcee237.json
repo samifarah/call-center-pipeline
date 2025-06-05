@@ -1,0 +1,118 @@
+{
+  "speakers": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 1.4500000000000002,
+      "label": "speaker_0"
+    },
+    {
+      "start": 4.38,
+      "end": 4.89,
+      "label": "speaker_1"
+    },
+    {
+      "start": 5.9,
+      "end": 6.41,
+      "label": "speaker_0"
+    },
+    {
+      "start": 6.7,
+      "end": 6.970000000000001,
+      "label": "speaker_1"
+    },
+    {
+      "start": 7.26,
+      "end": 8.635,
+      "label": "speaker_1"
+    },
+    {
+      "start": 8.635,
+      "end": 22.490000000000002,
+      "label": "speaker_0"
+    },
+    {
+      "start": 23.98,
+      "end": 27.53,
+      "label": "speaker_1"
+    },
+    {
+      "start": 28.38,
+      "end": 29.45,
+      "label": "speaker_0"
+    },
+    {
+      "start": 30.38,
+      "end": 31.255,
+      "label": "speaker_1"
+    },
+    {
+      "start": 31.005,
+      "end": 43.53,
+      "label": "speaker_0"
+    },
+    {
+      "start": 43.82,
+      "end": 44.89,
+      "label": "speaker_0"
+    },
+    {
+      "start": 45.18,
+      "end": 46.97,
+      "label": "speaker_0"
+    },
+    {
+      "start": 47.34,
+      "end": 55.61,
+      "label": "speaker_0"
+    },
+    {
+      "start": 56.14,
+      "end": 59.515,
+      "label": "speaker_1"
+    },
+    {
+      "start": 59.265,
+      "end": 60.410000000000004,
+      "label": "speaker_0"
+    },
+    {
+      "start": 60.78,
+      "end": 62.905,
+      "label": "speaker_1"
+    },
+    {
+      "start": 62.655,
+      "end": 63.61,
+      "label": "speaker_0"
+    },
+    {
+      "start": 64.46,
+      "end": 67.585,
+      "label": "speaker_1"
+    },
+    {
+      "start": 67.335,
+      "end": 68.64999999999999,
+      "label": "speaker_0"
+    },
+    {
+      "start": 68.86,
+      "end": 70.485,
+      "label": "speaker_1"
+    },
+    {
+      "start": 70.235,
+      "end": 71.235,
+      "label": "speaker_0"
+    },
+    {
+      "start": 70.985,
+      "end": 72.09,
+      "label": "speaker_1"
+    }
+  ]
+}

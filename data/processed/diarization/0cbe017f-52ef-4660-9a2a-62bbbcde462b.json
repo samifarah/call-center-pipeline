@@ -1,0 +1,258 @@
+{
+  "speakers": [
+    "speaker_0",
+    "speaker_1"
+  ],
+  "segments": [
+    {
+      "start": 4.14,
+      "end": 4.89,
+      "label": "speaker_1"
+    },
+    {
+      "start": 6.3,
+      "end": 7.77,
+      "label": "speaker_0"
+    },
+    {
+      "start": 8.7,
+      "end": 11.69,
+      "label": "speaker_1"
+    },
+    {
+      "start": 12.78,
+      "end": 14.57,
+      "label": "speaker_0"
+    },
+    {
+      "start": 15.42,
+      "end": 16.17,
+      "label": "speaker_1"
+    },
+    {
+      "start": 17.34,
+      "end": 27.53,
+      "label": "speaker_0"
+    },
+    {
+      "start": 27.9,
+      "end": 32.89,
+      "label": "speaker_0"
+    },
+    {
+      "start": 33.18,
+      "end": 40.41,
+      "label": "speaker_0"
+    },
+    {
+      "start": 41.18,
+      "end": 42.01,
+      "label": "speaker_0"
+    },
+    {
+      "start": 42.46,
+      "end": 44.585,
+      "label": "speaker_1"
+    },
+    {
+      "start": 44.585,
+      "end": 49.61,
+      "label": "speaker_0"
+    },
+    {
+      "start": 51.42,
+      "end": 56.295,
+      "label": "speaker_1"
+    },
+    {
+      "start": 55.545,
+      "end": 64.09,
+      "label": "speaker_0"
+    },
+    {
+      "start": 64.38,
+      "end": 65.505,
+      "label": "speaker_1"
+    },
+    {
+      "start": 65.255,
+      "end": 67.61,
+      "label": "speaker_0"
+    },
+    {
+      "start": 68.14,
+      "end": 68.49,
+      "label": "speaker_1"
+    },
+    {
+      "start": 68.78,
+      "end": 72.09,
+      "label": "speaker_0"
+    },
+    {
+      "start": 72.46,
+      "end": 73.05,
+      "label": "speaker_1"
+    },
+    {
+      "start": 73.5,
+      "end": 82.625,
+      "label": "speaker_1"
+    },
+    {
+      "start": 81.375,
+      "end": 81.875,
+      "label": "speaker_0"
+    },
+    {
+      "start": 82.375,
+      "end": 86.81,
+      "label": "speaker_0"
+    },
+    {
+      "start": 87.34,
+      "end": 92.57000000000001,
+      "label": "speaker_0"
+    },
+    {
+      "start": 94.94,
+      "end": 100.00999999999999,
+      "label": "speaker_1"
+    },
+    {
+      "start": 100.3,
+      "end": 101.175,
+      "label": "speaker_1"
+    },
+    {
+      "start": 100.925,
+      "end": 108.89,
+      "label": "speaker_0"
+    },
+    {
+      "start": 109.18,
+      "end": 109.37,
+      "label": "speaker_0"
+    },
+    {
+      "start": 111.9,
+      "end": 116.775,
+      "label": "speaker_1"
+    },
+    {
+      "start": 116.775,
+      "end": 120.025,
+      "label": "speaker_0"
+    },
+    {
+      "start": 119.525,
+      "end": 124.49000000000001,
+      "label": "speaker_1"
+    },
+    {
+      "start": 125.58,
+      "end": 125.955,
+      "label": "speaker_0"
+    },
+    {
+      "start": 125.955,
+      "end": 127.05,
+      "label": "speaker_1"
+    },
+    {
+      "start": 127.74,
+      "end": 132.57,
+      "label": "speaker_0"
+    },
+    {
+      "start": 136.3,
+      "end": 136.97,
+      "label": "speaker_0"
+    },
+    {
+      "start": 137.5,
+      "end": 138.17,
+      "label": "speaker_1"
+    },
+    {
+      "start": 138.54,
+      "end": 144.785,
+      "label": "speaker_1"
+    },
+    {
+      "start": 144.785,
+      "end": 152.73000000000002,
+      "label": "speaker_0"
+    },
+    {
+      "start": 145.535,
+      "end": 145.785,
+      "label": "speaker_1"
+    },
+    {
+      "start": 146.785,
+      "end": 147.785,
+      "label": "speaker_1"
+    },
+    {
+      "start": 153.82,
+      "end": 165.69,
+      "label": "speaker_0"
+    },
+    {
+      "start": 166.3,
+      "end": 180.65,
+      "label": "speaker_0"
+    },
+    {
+      "start": 181.26,
+      "end": 208.32999999999998,
+      "label": "speaker_0"
+    },
+    {
+      "start": 209.26,
+      "end": 218.635,
+      "label": "speaker_1"
+    },
+    {
+      "start": 218.135,
+      "end": 224.09,
+      "label": "speaker_0"
+    },
+    {
+      "start": 224.62,
+      "end": 228.995,
+      "label": "speaker_1"
+    },
+    {
+      "start": 228.245,
+      "end": 233.05,
+      "label": "speaker_0"
+    },
+    {
+      "start": 233.34,
+      "end": 237.965,
+      "label": "speaker_1"
+    },
+    {
+      "start": 237.965,
+      "end": 241.465,
+      "label": "speaker_0"
+    },
+    {
+      "start": 241.215,
+      "end": 243.37,
+      "label": "speaker_1"
+    },
+    {
+      "start": 243.66,
+      "end": 244.01,
+      "label": "speaker_0"
+    },
+    {
+      "start": 244.54,
+      "end": 245.69,
+      "label": "speaker_1"
+    }
+  ]
+}
